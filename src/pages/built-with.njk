@@ -1,5 +1,5 @@
 ---
-title: Built with
+title: Bibliography
 permalink: /built-with/index.html
 description: 'A list of sites based on / built with Eleventy Excellent. Add yours by submitting a pull request!'
 layout: page
@@ -44,9 +44,9 @@ widths: [400, 520]
           <p slot="content">{{ site.description }}</p>
           <footer slot="footer" class="repel">
             <a class="no-indicator" href="{{ site.link }}">{{ site.link | replace("https://", "") }}</a>
-            {% if site.builtbylene %}
-              <span class="gradient-text-linear">built by Lene</span>
-            {% endif %}
+            <!-- {% if site.builtbylene %}
+              <span class="gradient-text-linear">built by </span>
+            {% endif %} 
           </footer>
         </custom-card>
       {% endfor %}

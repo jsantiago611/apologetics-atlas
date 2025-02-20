@@ -5,17 +5,17 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
+      text: 'Index',
+      url: '/index/'
     },
     {
-      text: 'Built with',
+      text: 'Main',
+      url: '/blog/'
+    },
+    {
+      text: 'Bibliography',
       url: '/built-with/'
     },
-    {
-      text: 'Blog',
-      url: '/blog/'
-    }
   ],
   bottom: [
     {

@@ -11,7 +11,7 @@
   --button-radius: var(--border-radius-small);
   --button-gap: var(--space-2xs);
   --button-padding: var(--space-xs) var(--space-m) var(--space-2xs) var(--space-m);
-  --button-font-family: var(--font-body);
+  --button-font-family: var(--font-mono);
   --button-font-weight: var(--font-regular);
   --button-font-size: var(--size-step-0);
   --button-text-transform: none;
