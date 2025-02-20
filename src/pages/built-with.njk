@@ -38,7 +38,7 @@ widths: [400, 520]
       <!-- you find tha data for that in src/_data/builtwith.json -->
       {% for site in builtwith | shuffle %}
         <custom-card clickable img-square class="text-step-min-1" style="--card-bg: var(--color-bg)">
-          {% image "./src/assets/images/screenshots/" + site.filename + ".jpg", site.name, null, "lazy", null, null, widths, sizes %}
+          <!--{% image "./src/assets/images/screenshots/" + site.filename + ".jpg", site.name, null, "lazy", null, null, widths, sizes %}-->
           <h3 slot="headline" style="font-size: var(--size-step-0);">{{ site.name }}</h3>
 
           <p slot="content">{{ site.description }}</p>
@@ -46,7 +46,7 @@ widths: [400, 520]
             <a class="no-indicator" href="{{ site.link }}">{{ site.link | replace("https://", "") }}</a>
             <!-- {% if site.builtbylene %}
               <span class="gradient-text-linear">built by </span>
-            {% endif %} 
+            {% endif %} -->
           </footer>
         </custom-card>
       {% endfor %}

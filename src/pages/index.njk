@@ -4,17 +4,19 @@ permalink: /index.html
 title: 'Explore Apologetics'
 description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Main Note Box'
+  intro: "These are the main notes in this digital zettelkasten. Choose one to get started, or go to the Index page to choose a section to explore."
 ---
 
 <div class="wrapper">
   <header class="full | section" style="--spot-color: var(--color-primary)">
+      {% svg "divider/soft-top", null, "seperator" %}
+
     <div class="section__inner flow region">
       <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
     </div>
 
-    {% svg "divider/waves", null, "seperator" %}
+    {% svg "divider/soft-bottom", null, "seperator" %}
   </header>
 
   <article class="full | region">
