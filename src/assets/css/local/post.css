@@ -36,4 +36,6 @@
 
 .post .meta {
   font-size: var(--size-step-min-1);
+  font-family: var(--font-mono);
+  text-transform: uppercase;
 }

@@ -33,15 +33,17 @@ h3 {
   font-family: var(--font-display);
   font-weight: var(--font-extra-bold);
   line-height: 1.2;
-  letter-spacing: var(--tracking-s);
+  letter-spacing: var(--tracking);
+  font-feature-settings: "liga", "kern", "dlig";
+  font-feature-settings: 'ss10';
 }
 
 h1 {
-  font-size: var(--size-step-6);
+  font-size: var(--size-step-7);
 }
 
 h2 {
-  font-size: var(--size-step-4);
+  font-size: var(--size-step-5);
 }
 
 h3 {
@@ -101,6 +103,10 @@ figcaption {
   text-align: center;
   padding-block-end: var(--space-xs);
   border-bottom: var(--stroke);
+}
+
+.ss10 {
+  font-feature-settings: 'ss10';
 }
 
 a {

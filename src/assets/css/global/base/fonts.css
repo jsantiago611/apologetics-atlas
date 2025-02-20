@@ -37,3 +37,68 @@
     local(''),
     url('/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'HeldaneDisplay';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local(''),
+    url('/assets/fonts/heldane/HeldaneDisplayWeb-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'HeldaneDisplay';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/heldane/HeldaneDisplayWeb-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'FoundersMono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/foundersmono/FoundersGroteskMonoWeb-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'FoundersMono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local(''),
+    url('/assets/fonts/foundersmono/FoundersGroteskMonoWeb-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'HeldaneText';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/heldanetext/HeldaneTextWeb-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'HeldaneText';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/heldanetext/HeldaneTextWeb-RegularItalic.woff') format('woff');
+}
+@font-face {
+  font-family: 'HeldaneText';
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src:
+    local(''),
+    url('/assets/fonts/heldanetext/HeldaneTextWeb-Bold.woff2') format('woff2');
+} 

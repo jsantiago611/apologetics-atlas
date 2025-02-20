@@ -49,6 +49,11 @@
       "name": "Step 6",
       "min": 56,
       "max": 107
+    },
+    {
+      "name": "Step 7",
+      "min": 68,
+      "max": 134
     }
   ]
 }

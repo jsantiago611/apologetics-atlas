@@ -46,6 +46,7 @@ custom-card img {
 custom-card > .meta {
   grid-row: meta;
   font-size: var(--size-step-min-1);
+  font-family: var(--font-mono);
 }
 
 custom-card > p {
