@@ -6,7 +6,7 @@ export default {
     },
     {
       text: 'Index',
-      url: '/index/'
+      url: '/noteindex/'
     },
     {
       text: 'Main',
