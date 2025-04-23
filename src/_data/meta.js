@@ -1,6 +1,6 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'Apologetics Atlas';
-export const siteDescription = 'Notes on Christian Truth and Apologetics';
+export const siteName = 'The QA Standard';
+export const siteDescription = 'Tips for Modern QA';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';

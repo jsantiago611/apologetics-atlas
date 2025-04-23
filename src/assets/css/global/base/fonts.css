@@ -102,3 +102,83 @@
     local(''),
     url('/assets/fonts/heldanetext/HeldaneTextWeb-Bold.woff2') format('woff2');
 } 
+@font-face {
+  font-family: 'Formula';
+  font-style: normal;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/formula/FormulaCondensed-Bold.woff') format('woff');
+} 
+
+@font-face {
+  font-family: 'Favorit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/favorit/favorit-std-regular.woff') format('woff');
+} 
+@font-face {
+  font-family: 'Favorit';
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src:
+    local(''),
+    url('/assets/fonts/favorit/favorit-std-medium.woff') format('woff');
+} 
+
+@font-face {
+  font-family: 'FinancierDisplay';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/financier/financier-display-light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'FinancierDisplay';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local(''),
+    url('/assets/fonts/financier/financier-display-light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'FinancierText';
+  font-style: normal;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/financier/financier-text-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Soehne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/soehne/soehne-buch.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Soehne';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local(''),
+    url('/assets/fonts/soehne/soehne-kraftig.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SoehneWide';
+  font-style: normal;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/soehne/soehne-breit-buch.woff2') format('woff2');
+}
