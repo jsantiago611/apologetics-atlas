@@ -5,16 +5,8 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Index',
-      url: '/noteindex/'
-    },
-    {
-      text: 'Main',
+      text: 'Tutorials',
       url: '/blog/'
-    },
-    {
-      text: 'Bibliography',
-      url: '/built-with/'
     },
   ],
   bottom: [
