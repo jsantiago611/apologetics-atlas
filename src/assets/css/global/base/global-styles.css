@@ -40,6 +40,8 @@ h3 {
 
 h1 {
   font-size: var(--size-step-7);
+  font-family: 'SoehneWide';
+  font-weight: 400;;
 }
 
 h2 {
