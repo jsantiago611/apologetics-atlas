@@ -1,5 +1,5 @@
 ---
-title: 'Respect your team's time'
+title: "Respect your team's time"
 date: 2025-05-09
 tags: 'management'
 ---
