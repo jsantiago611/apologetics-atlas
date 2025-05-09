@@ -1,5 +1,7 @@
 ---
-Title: Respect your team's time
+title: Respect your team's time
+date: 2025-05-09
+tags: 'management'
 ---
 
 > If you work on your own, your productivity choices are up to you. But when you involve others in your project, the default should be to honor the habits of the most productive member of the team. -[Seth Godin](https://seths.blog/2025/04/simple-and-painless-productivity/)
