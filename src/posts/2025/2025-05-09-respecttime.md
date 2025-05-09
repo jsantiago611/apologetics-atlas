@@ -1,6 +1,6 @@
 ---
 title: 'Respecting Time'
-description: "Thoughts on respecting time'
+description: "Thoughts on respecting time"
 date: 2025-05-09
 tags: ['management']
 ---
