@@ -5,4 +5,4 @@ description: 'Eleventy Excellent is inspired bythe companion website of Andy Bel
 layout: page
 ---
 
-Hi, my name is Jonathan and I'm the author of this site. I share QA management practices. 
+Hi, my name is Jonathan and I'm the author of this site. I talk about Zettelkasten!

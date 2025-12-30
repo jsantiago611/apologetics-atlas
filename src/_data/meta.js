@@ -1,12 +1,12 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'The QA Standard';
+export const siteName = 'Zettelkasten Stuff';
 export const siteDescription = 'Tips for Modern QA';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Jonathan Santiago', // i.e. Lene Saile - page / blog author's name. Must be set.
+  name: 'Jonathan D', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
   email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
   website: 'https://www.lenesaile.com', // i.e. https.://www.lenesaile.com - the personal site of the author

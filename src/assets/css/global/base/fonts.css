@@ -182,3 +182,65 @@
     local(''),
     url('/assets/fonts/soehne/soehne-breit-buch.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'Pitch';
+  font-style: normal;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/pitch/Pitch-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Pitch';
+  font-style: italic;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/pitch/Pitch-RegularItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'PitchSans';
+  font-style: normal;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/pitch/PitchSansWeb-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'PitchSans';
+  font-style: italic;
+  font-display: swap;
+  src:
+    local(''),
+    url('/assets/fonts/pitch/PitchSansWeb-MediumItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gt-alpina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/gt-alpina/GT-Alpina-Standard-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'gt-alpina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local(''),
+    url('/assets/fonts/gt-alpina/GT-Alpina-Standard-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'gt-alpina';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local(''),
+    url('/assets/fonts/gt-alpina/GT-Alpina-Standard-Regular-Italic.woff2') format('woff2');
+}

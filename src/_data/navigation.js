@@ -5,7 +5,7 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Tutorials',
+      text: 'Blog',
       url: '/blog/'
     },
   ],

@@ -1,66 +1,66 @@
 {
   "title": "Colors",
-  "description": "Hex color codes that can be shared, cross-platform. They can be converted at point of usage, such as HSL for web or CMYK for print. neutral and vibrant colors are converted to color palettes, fixed colors are kept as they are",
+  "description": "Palette inspired by the Institute of Design brand — creative, balanced, expressive.",
   "items": [
     {
       "name": "Gray 100",
-      "value": "#ecf9ff"
+      "value": "#f8f8f8"
     },
     {
       "name": "Gray 200",
-      "value": "#d6e5ff"
+      "value": "#e4e4e4"
     },
     {
       "name": "Gray 300",
-      "value": "#a0aeca"
+      "value": "#aeaeae"
     },
     {
       "name": "Gray 400",
-      "value": "#6980ae"
+      "value": "#808080"
     },
     {
       "name": "Gray 500",
-      "value": "#496297"
+      "value": "#636363"
     },
     {
       "name": "Gray 600",
-      "value": "#2a4480"
+      "value": "#484848"
     },
     {
       "name": "Gray 700",
-      "value": "#22386a"
+      "value": "#3a3a3a"
     },
     {
       "name": "Gray 800",
-      "value": "#182b57"
+      "value": "#2e2e2e"
     },
     {
       "name": "Gray 900",
-      "value": "#051238"
+      "value": "#161616"
     },
     {
       "name": "Pink",
-      "value": "#001eff"
+      "value": "#423EFE"
     },
     {
       "name": "Pink Subdued",
-      "value": "#0c3fde"
+      "value": "#4550e0"
     },
     {
       "name": "Blue",
-      "value": "#001eff"
+      "value": "#FEBE00"
     },
     {
       "name": "Blue Subdued",
-      "value": "#0c3fde"
+      "value": "#f4c154"
     },
     {
       "name": "Gold",
-      "value": "#001eff"
+      "value": "#01BF36"
     },
     {
       "name": "Gold Subdued",
-      "value": "#0c3fde"
+      "value": "#48b953"
     }
   ]
 }
